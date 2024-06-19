@@ -5,6 +5,7 @@ A Java program that solves a 9x9 Sudoku puzzle using a backtracking algorithm.
 ## Project Description
 
 This project provides a solution to solve a standard 9x9 Sudoku puzzle. The solution uses a backtracking algorithm to fill in the empty cells of the puzzle while ensuring that the Sudoku rules are followed.
+This project demonstrates my knowledge of Data Structures and Algorithms, particularly the backtracking technique.
 
 ## Sudoku Solver Algorithm
 
