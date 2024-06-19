@@ -50,4 +50,4 @@ If a solution exists, the program will output the solved Sudoku grid. If no solu
    java Sudoku
 
 ## Contact
-For any questions or feedback, please contact [email](ratneshkshirsagar1253@gmail.com).
+For any questions or feedback, please contact [email](mailto:ratneshkshirsagar1253@gmail.com).
