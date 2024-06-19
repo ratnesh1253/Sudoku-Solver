@@ -6,19 +6,6 @@ A Java program that solves a 9x9 Sudoku puzzle using a backtracking algorithm.
 
 This project provides a solution to solve a standard 9x9 Sudoku puzzle. The solution uses a backtracking algorithm to fill in the empty cells of the puzzle while ensuring that the Sudoku rules are followed.
 
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```sh
-   git clone https://github.com/ratnesh1253/SudokuSolver.git
-   cd SudokuSolver
-2. Compile the `Sudoku.java` file:
-   ```sh
-   javac Sudoku.java
-3. Run the `Sudoku` program:
-   ```sh
-   java Sudoku
-
 ## Sudoku Solver Algorithm
 
 The solver uses a backtracking algorithm:
@@ -48,6 +35,19 @@ Here is an example of a Sudoku puzzle used in the main method:
 ## Output
 
 If a solution exists, the program will output the solved Sudoku grid. If no solution exists, it will output "Solution does not exist".
+
+## How to Use
+
+1. Clone this repository to your local machine:
+   ```sh
+   git clone https://github.com/ratnesh1253/SudokuSolver.git
+   cd SudokuSolver
+2. Compile the `Sudoku.java` file:
+   ```sh
+   javac Sudoku.java
+3. Run the `Sudoku` program:
+   ```sh
+   java Sudoku
 
 ## Contact
 For any questions or feedback, please contact [email](ratneshkshirsagar1253@gmail.com).
