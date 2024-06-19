@@ -35,19 +35,19 @@ The solver uses a backtracking algorithm:
 ## Example Sudoku Puzzle
 
 Here is an example of a Sudoku puzzle used in the main method:
-0 0 8 0 0 0 0 0 0
-4 9 0 1 5 7 0 0 2
-0 0 3 0 0 4 1 9 0
-1 8 5 0 6 0 0 2 0
-0 0 0 0 2 0 0 6 0
-9 6 0 4 0 5 3 0 0
-0 3 0 0 7 2 0 0 4
-0 4 9 0 3 0 0 5 7
-8 2 7 0 0 9 0 1 3
+                { { 0, 0, 8, 0, 0, 0, 0, 0, 0 },
+                { 4, 9, 0, 1, 5, 7, 0, 0, 2 },
+                { 0, 0, 3, 0, 0, 4, 1, 9, 0 },
+                { 1, 8, 5, 0, 6, 0, 0, 2, 0 },
+                { 0, 0, 0, 0, 2, 0, 0, 6, 0 },
+                { 9, 6, 0, 4, 0, 5, 3, 0, 0 },
+                { 0, 3, 0, 0, 7, 2, 0, 0, 4 },
+                { 0, 4, 9, 0, 3, 0, 0, 5, 7 },
+                { 8, 2, 7, 0, 0, 9, 0, 1, 3 } }
 
 ## Output
 
 If a solution exists, the program will output the solved Sudoku grid. If no solution exists, it will output "Solution does not exist".
 
 ## Contact
-For any questions or feedback, please contact \herf{ratneshkshirsagar1253@gamil.com}(email) .
+For any questions or feedback, please contact [email](ratneshkshirsagar1253@gmail.com).
